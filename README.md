@@ -1,2 +1,1 @@
-# Sales-data-analysis
-Mini Python project analyzing sales data with Pandas and visualizing revenue by product.
+This project demonstrates a mini data analysis workflow using Python and Pandas. It calculates total revenue per product from sales data and identifies the top-selling product. The results are displayed in tables and saved as a CSV, making it a clean, beginner-friendly portfolio project for showcasing data manipulation and analysis skills.
